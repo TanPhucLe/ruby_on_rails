@@ -1,1 +1,1 @@
-This is tutorial about ruby on rails for begginer
+This is tutorial about ruby on rails for beginner
