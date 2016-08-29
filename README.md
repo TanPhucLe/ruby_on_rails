@@ -1,1 +1,1 @@
-# ruby_on_rails
+This is tutorial about ruby on rails for begginer
